@@ -1,0 +1,40 @@
+{
+  "Students": [
+    {
+      "lastname": "Clover",
+      "firstname": "yuno",
+      "class": "Terminale S1",
+      "id": "2"
+    },
+    {
+      "id": "f4af",
+      "lastname": "Roos",
+      "firstname": "Mika",
+      "class": "Terminale L1a"
+    },
+    {
+      "id": "eca2",
+      "lastname": "Diagne",
+      "firstname": "Mika",
+      "class": "Terminale L1b"
+    }
+  ],
+  "Classes": [
+    {
+      "name": "Terminale S2",
+      "id": "0"
+    },
+    {
+      "name": "Terminale S1",
+      "id": "5ef0"
+    },
+    {
+      "id": "e592",
+      "name": "Terminale L1a"
+    },
+    {
+      "id": "bb09",
+      "name": "Terminale L1b"
+    }
+  ]
+}
